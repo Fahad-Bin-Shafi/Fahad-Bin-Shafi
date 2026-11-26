@@ -6,11 +6,11 @@
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahaad-dev/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-fbsk14301@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fbsk14301@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Fahad--Bin--Shafi-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Fahad-Bin-Shafi)
-&nbsp;
-![Focus](https://img.shields.io/badge/Focus-Computer_Vision_%7C_Deep_Learning-00d9ff?style=flat-square)
-&nbsp;
-![Interests](https://img.shields.io/badge/Interests-MLOps_%7C_DevOps-blueviolet?style=flat-square)
 
 </div>
 
@@ -200,9 +200,15 @@ Visualises how convolution, ReLU and max/average pooling transform an image acro
 
 ---
 
+## Let's Connect
+
 <div align="center">
 
-I'm looking for **AI/ML internships**, **computer vision and deep learning collaborations**, and **open-source contributions**. Feel free to open an issue on any repository or follow me on GitHub.
+I'm looking for **AI/ML internships**, **computer vision and deep learning collaborations**, and **open-source contributions**. Let's work together.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fahaad--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahaad-dev/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fbsk14301@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=80&section=footer" width="100%"/>
 
