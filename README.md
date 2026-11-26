@@ -58,8 +58,8 @@ fahad = {
 
 **📊 Data Science**
 
-[![Skills](https://skillicons.dev/icons?i=numpy,pandas&theme=dark)](https://skillicons.dev)
-&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
